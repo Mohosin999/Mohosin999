@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, This is Mohosin Hasan Akash</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0-Ko5aZgyHVMZTYhqKFdIpW6v14bkr-Y91J4xb9gDbSo6Ax9i3ivxDSfVDjkLh0whD5A&usqp=CAU">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
 
