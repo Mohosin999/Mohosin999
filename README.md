@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Shoestore e-Commerce Project**
 
-- 🌱 I’m currently learning **Strapi & Next.js**
+- 🌱 I’m currently learning **Design System**
 
 - 💬 Ask me about **JavaScript, React**
 
