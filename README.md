@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
 
-- 🔭 I’m currently working on **Enterprise Grade Project**
+- 🔭 I’m currently working on **ShoeStore eCommerce Project**
 
-- 🌱 I’m currently learning **Design System**
+- 🌱 I’m currently learning **Next.js and Strapi**
 
 - 💬 Ask me about **JavaScript, React**
 
