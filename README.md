@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
 
-- 🔭 I’m currently working on **ShoeStore eCommerce Project**
+- 🔭 I’m currently working on **Loading...**
 
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m currently learning **Full Stack Army - Backend**
 
 - 💬 Ask me about **JavaScript, React**
 
-- 📫 How to reach me **mohosin.h.akash@gmail.com**
+- 📫 How to reach me quickly **mohosin.h.akash@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
