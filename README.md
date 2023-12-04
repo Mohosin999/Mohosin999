@@ -38,8 +38,8 @@
   <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-CSS-orange?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=Typescript&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Next.js-blue?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Node.js-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Mongo.DB-green?style=for-the-badge&logo=Mongodb&logoColor=white&labelColor=black">
