@@ -33,6 +33,20 @@
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>  
   </p>
 
+  <div align="center">
+  
+  <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-CSS-orange?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=Typescript&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Node.js-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Mongo.DB-green?style=for-the-badge&logo=Mongodb&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=black">
+  
+</div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohosin999&show_icons=true&locale=en&layout=compact" alt="mohosin999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohosin999&show_icons=true&locale=en" alt="mohosin999" /></p>
