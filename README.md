@@ -23,7 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
   <div align="center">
   <img src="https://img.shields.io/badge/-Tailwind CSS-sky?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black">
   <img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&logoColor=blue&labelColor=black">
   <img src="https://img.shields.io/badge/-Next.js-informational?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Node.js-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black">
