@@ -20,6 +20,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-CSS-brightgreen?style=for-the-badge&logo=css&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Next.js-informational?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black">
