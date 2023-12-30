@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Loading...**
 
-- 🌱 I’m currently learning **DSA with JavaScript & Full Stack Army - Backend**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 📫 How to reach me quickly **mohosin.h.akash@gmail.com**
 
