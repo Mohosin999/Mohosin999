@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Application...**
+- 🔭 I’m currently working on **...**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
