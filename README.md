@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Improving English & Problem Solving**
 
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m currently learning **Data Structures & Reading ReactJS Documentation**
 
 - 📫 How to reach me quickly **mohosin.h.akash@gmail.com**
 
