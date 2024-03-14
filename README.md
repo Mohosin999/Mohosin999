@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Improving Problem Solving Skills**
 
-- 🌱 I’m currently learning **Git & GitHub + DSA in JavaScript**
+- 🌱 I’m currently learning **Data Structures**
 
 - 📫 How to reach me quickly **mohosin.h.akash@gmail.com**
 
