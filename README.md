@@ -26,7 +26,8 @@
   <img src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
 <!--   <img src="https://img.shields.io/badge/-Next.js-informational?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black"> -->
-  <img src="https://img.shields.io/badge/-Express.js-brightgreen?style=for-the-badge&logo=Express.js&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Express.js-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Express.js-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black">
 </div>
 
 
