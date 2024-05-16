@@ -34,13 +34,13 @@
   <img src="https://img.shields.io/badge/-CSS-brightgreen?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
 </div>
 
-<h3 align="left">Well Known:</h3>
+<h3 align="left">Comfortable:</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black">
   <img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
 </div>
 
-<h3 align="left">Explore:</h3>
+<h3 align="left">Familiar:</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/-Next.js-informational?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Express.js-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black">
