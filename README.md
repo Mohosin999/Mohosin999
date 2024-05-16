@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, This is Mohosin Hasan Akash</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" height="300" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" >
+<!-- <img align="right" alt="coding" width="400" height="300" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" > -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
 
@@ -21,9 +21,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-<!--   <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-CSS-brightgreen?style=for-the-badge&logo=css3&logoColor=white&labelColor=black"> -->
-  <img src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-CSS-brightgreen?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
+<!--   <img src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black"> -->
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black">
   <img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
 <!--   <img src="https://img.shields.io/badge/-Next.js-informational?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black"> -->
   <img src="https://img.shields.io/badge/-Express.js-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black">
