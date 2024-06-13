@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Mohosin Hasan Akash</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" height="300" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" >
+<!-- <img align="right" alt="coding" width="400" height="300" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" > -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
@@ -46,8 +46,8 @@ I’m a Front End Web developer passionate about making error-free websites with
 <h3>📈 Interesting numbers</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohosin999&show_icons=true&locale=en&layout=compact" alt="mohosin999" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohosin999&show_icons=true&locale=en" alt="mohosin999" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohosin999&" alt="mohosin999" /></p>
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohosin999&show_icons=true&locale=en" alt="mohosin999" /></p> -->
+<!--
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohosin999&" alt="mohosin999" /></p> -->
 
