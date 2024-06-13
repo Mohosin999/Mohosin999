@@ -17,11 +17,9 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 
 ## 👨‍💻 Skills & Experiance: 
-✅ WordPress <br> 
+✅ React.js <br>
 ✅ JavaScript <br>
-✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ Photoshop / Illustrator <be>
+✅ HTML5 / CSS3 / SASS / Tailwind<br>
 
 
 <h3 align="left">Connect with me:</h3>
