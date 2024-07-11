@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Mohosin Hasan Akash</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
-<!-- <img align="right" alt="coding" width="400" height="300" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" > -->
+<img align="right" alt="coding" width="400" height="300" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
@@ -22,7 +22,7 @@ I’m a Frontend Web Developer passionate about making high-performing, error-fr
 ✅ HTML5 / CSS3 / SASS / Tailwind<br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-pink?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-HTML-y?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-CSS-brightgreen?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black">
