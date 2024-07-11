@@ -36,7 +36,6 @@ I’m a Frontend Web Developer passionate about making high-performing, error-fr
 </p>
 
 
-## 📈 Interesting Charts
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohosin999&show_icons=true&locale=en&layout=compact" alt="mohosin999" /></p>
   <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohosin999&show_icons=true&locale=en" alt="mohosin999" /></p> -->
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohosin999&" alt="mohosin999" /></p>
