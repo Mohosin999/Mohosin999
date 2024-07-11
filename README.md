@@ -23,6 +23,8 @@ I’m a Frontend Web Developer passionate about making high-performing, error-fr
   <img src="https://img.shields.io/badge/-React.js-darkcyan?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Next.js-darkcyan?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Redux-darkviolet?style=for-the-badge&logo=redux&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Express.js-limegreen?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Strapi-brightgreen?style=for-the-badge&logo=strapi&logoColor=white&labelColor=black">
 </div>
 
 <div align="left">
@@ -32,7 +34,7 @@ I’m a Frontend Web Developer passionate about making high-performing, error-fr
   <img src="https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black">
   <img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Next.js-informational?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Express.js-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black">
+  
 </div>
 
 
