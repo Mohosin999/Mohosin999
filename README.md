@@ -19,10 +19,10 @@ I’m a Frontend Web Developer passionate about making high-performing, error-fr
 ## 👨‍💻 Skills & Experiance: 
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-gold?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-React-lightseagreen?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Next.js-darkcyan?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Redux-lightcyan?style=for-the-badge&logo=redux&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-JavaScript-goldenrod?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-React.js-cyan?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Next.js-cyan?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Redux-darkviolet?style=for-the-badge&logo=redux&logoColor=white&labelColor=black">
 </div>
 
 <div align="left">
