@@ -17,19 +17,20 @@ I’m a Frontend Web Developer passionate about making high-performing, error-fr
 
 
 ## 👨‍💻 Skills & Experiance: 
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-gold?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-React.js-darkcyan?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Next.js-darkcyan?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Redux-darkviolet?style=for-the-badge&logo=redux&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Express.js-darkgreen?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Strapi-darkgreen?style=for-the-badge&logo=strapi&logoColor=white&labelColor=black">
+<div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/-JavaScript-gold?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
+    <img src="https://img.shields.io/badge/-React.js-darkcyan?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
+    <img src="https://img.shields.io/badge/-Next.js-darkcyan?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black">
+    <img src="https://img.shields.io/badge/-Redux-darkviolet?style=for-the-badge&logo=redux&logoColor=white&labelColor=black">
+    <img src="https://img.shields.io/badge/-Express.js-darkgreen?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black">
+    <img src="https://img.shields.io/badge/-Strapi-darkgreen?style=for-the-badge&logo=strapi&logoColor=white&labelColor=black">
+  </div>
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohosin999&show_icons=true&locale=en&layout=compact" alt="mohosin999" /></p>
+  <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohosin999&show_icons=true&locale=en" alt="mohosin999" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohosin999&" alt="mohosin999" /></p> -->
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohosin999&show_icons=true&locale=en&layout=compact" alt="mohosin999" /></p>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohosin999&show_icons=true&locale=en" alt="mohosin999" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohosin999&" alt="mohosin999" /></p> -->
-
 
 ## ☕ Connect with me!
 <p align="left">
