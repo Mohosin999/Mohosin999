@@ -13,13 +13,23 @@
 
 
 ## 🚀 About Me
-I’m a Frontend Web Developer passionate about making high-performing and error-free websites with 100% client satisfaction. I am passionate about learning new topics and technologies. I love to solve real-world problems. I always try to do quality work and follow clean code architecture. I'm constantly working on improving my communication skills and problem-solving skills. I work with ReactJS, NextJS, ExpressJS, Headless CMS (Strapi), and JavaScript. 
+I’m a Frontend Web Developer passionate about making high-performing, error-free websites with 100% client satisfaction. I am passionate about learning new topics and technologies. I love to solve real-world problems. I always try to do quality work and follow clean code architecture. I'm constantly working on improving my communication skills and problem-solving skills. I work with ReactJS, NextJS, ExpressJS, Headless CMS ( Strapi ), and JavaScript. 
 
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ React.js <br>
 ✅ JavaScript <br>
 ✅ HTML5 / CSS3 / SASS / Tailwind<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-pink?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-CSS-brightgreen?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black">
+  <img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Next.js-informational?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Express.js-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black">
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -28,17 +38,6 @@ I’m a Frontend Web Developer passionate about making high-performing and error
   <a href="https://www.linkedin.com/in/mohosinh99/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="mohosinh99" height="30" width="40" /></a>
   <a href="https://twitter.com/mohosinh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohosinh99" height="30" width="40" /></a>
 </p>
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-CSS-brightgreen?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black">
-  <img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Next.js-informational?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Express.js-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black">
-</div>
 
 
 <h3>📈 Interesting numbers</h3>
