@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Mohosin Hasan Akash</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
-<img align="left" alt="coding" width="100%" height="300" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" >
+<img align="left" alt="coding" width="100%" height="300" src="https://www.facebook.com/photo/?fbid=1863261417421123&set=a.515241958889749" >
 <!-- <img align="right" alt="coding" width="400" height="300" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" > -->
 
 
@@ -17,7 +17,7 @@
 I’m a Frontend Web Developer passionate about making high-performing, error-free websites with 100% client satisfaction. I am passionate about learning new topics and technologies. I love to solve real-world problems. I always try to do quality work and follow clean code architecture. I'm constantly working on improving my communication skills and problem-solving skills. I work with ReactJS, NextJS, ExpressJS, Headless CMS (Strapi), and JavaScript.
 
 
-## 👨‍💻 Skills & Experiance: 
+## 📚 Skills & Experiance: 
 <div align="left">
   <img src="https://img.shields.io/badge/-JavaScript-gold?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-React.js-darkcyan?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
@@ -36,10 +36,9 @@ I’m a Frontend Web Developer passionate about making high-performing, error-fr
 </p>
 
 
-## Interesting Chart
+## 📈 Interesting Charts
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohosin999&show_icons=true&locale=en&layout=compact" alt="mohosin999" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohosin999&show_icons=true&locale=en" alt="mohosin999" /></p>
-  <!-- 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohosin999&" alt="mohosin999" /></p> -->
+  <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohosin999&show_icons=true&locale=en" alt="mohosin999" /></p> -->
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohosin999&" alt="mohosin999" /></p>
 
 
