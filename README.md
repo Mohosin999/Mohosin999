@@ -13,25 +13,18 @@
 
 
 ## 🚀 About Me
-I’m a Frontend Web Developer passionate about making high-performing, error-free websites with 100% client satisfaction. I am passionate about learning new topics and technologies. I love to solve real-world problems. I always try to do quality work and follow clean code architecture. I'm constantly working on improving my communication skills and problem-solving skills. I work with ReactJS, NextJS, ExpressJS, Headless CMS (Strapi), and JavaScript. 
+I’m a Frontend Web Developer passionate about making high-performing, error-free websites with 100% client satisfaction. I am passionate about learning new topics and technologies. I love to solve real-world problems. I always try to do quality work and follow clean code architecture. I'm constantly working on improving my communication skills and problem-solving skills. I work with ReactJS, NextJS, ExpressJS, Headless CMS (Strapi), and JavaScript.
 
 
 ## 👨‍💻 Skills & Experiance: 
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-gold?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-React.js-darkcyan?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Next.js-darkcyan?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Redux-darkviolet?style=for-the-badge&logo=redux&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Express.js-darkgreen?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Strapi-darkblue?style=for-the-badge&logo=strapi&logoColor=white&labelColor=black">
-</div>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/-HTML-cyan?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-CSS-gold?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Sass-darkmagenta?style=for-the-badge&logo=sasst&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Tailwind css-blue?style=for-the-badge&logo=tailwind&logoColor=yellow&labelColor=black">
+  <img src="https://img.shields.io/badge/-Strapi-darkgreen?style=for-the-badge&logo=strapi&logoColor=white&labelColor=black">
 </div>
 
 
@@ -46,8 +39,8 @@ I’m a Frontend Web Developer passionate about making high-performing, error-fr
 <h3>📈 Interesting numbers</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohosin999&show_icons=true&locale=en&layout=compact" alt="mohosin999" /></p>
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohosin999&show_icons=true&locale=en" alt="mohosin999" /></p> -->
-<!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohosin999&" alt="mohosin999" /></p> -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohosin999&show_icons=true&locale=en" alt="mohosin999" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohosin999&" alt="mohosin999" /></p>
 
