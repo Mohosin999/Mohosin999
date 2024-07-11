@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, This is Mohosin Hasan Akash</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
+<img align="left" alt="coding" width="100%" height="300" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" >
 <!-- <img align="right" alt="coding" width="400" height="300" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" > -->
 
 
@@ -17,7 +18,7 @@ I’m a Frontend Web Developer passionate about making high-performing, error-fr
 
 
 ## 👨‍💻 Skills & Experiance: 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/-JavaScript-gold?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-React.js-darkcyan?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Next.js-darkcyan?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black">
@@ -37,7 +38,8 @@ I’m a Frontend Web Developer passionate about making high-performing, error-fr
 
 ## Interesting Chart
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohosin999&show_icons=true&locale=en&layout=compact" alt="mohosin999" /></p>
-  <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohosin999&show_icons=true&locale=en" alt="mohosin999" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohosin999&show_icons=true&locale=en" alt="mohosin999" /></p>
+  <!-- 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohosin999&" alt="mohosin999" /></p> -->
 
 
