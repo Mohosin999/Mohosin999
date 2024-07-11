@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, This is Mohosin Hasan Akash</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
-<img align="left" alt="coding" width="100%" height="300" src="https://www.facebook.com/photo/?fbid=1863261417421123&set=a.515241958889749" >
+<img align="left" alt="coding" width="100%" height="300" src="https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/440377542_1863261414087790_5727349811009535077_n.png?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHsTYjcMop023c9sAKLj204sFDNMxFoXpmwUM0zEWhemTTw90FR11xoxIB0Xnb6cIZE7hbLKdKfqLW9sVQw5BRM&_nc_ohc=THu8AkN9Le0Q7kNvgFYMlQ9&_nc_ht=scontent.fdac24-5.fna&oh=00_AYChCXW_JVZB2rKDxm2fU_Msrjt3sz-c6COB5qP3lY6yZQ&oe=66957093" >
 <!-- <img align="right" alt="coding" width="400" height="300" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" > -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
 
-- 🔭 I’m currently working on **Frontend Project named Track-Zone**
+- 💻 I’m currently working on **Frontend Project named Track-Zone**
 
-- 🌱 I’m currently learning **Linked List Data Structure**
+- 📖 I’m currently learning **Linked List Data Structure**
 
-- 📫 How to reach me quickly **mohosin.hasan.akash@gmail.com**
+- 🌐 How to reach me quickly **mohosin.hasan.akash@gmail.com**
 
 
 ## 🚀 About Me
