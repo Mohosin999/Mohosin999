@@ -27,6 +27,16 @@ I’m a Frontend Web Developer passionate about making high-performing, error-fr
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-cyan?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-CSS-gold?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-JavaScript-mediumseagreen?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black">
+  <img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Next.js-informational?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Express.js-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-cyan?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-CSS-gold?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black">
   <img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
