@@ -16,13 +16,7 @@ As a passionate front-end web developer, I specialize in creating responsive and
 
 I mainly work with ReactJS, NextJS, ExpressJS, and JavaScript. I use Redux-toolkit or Easy Peasy to manage the state. For styling I use CSS, SASS, Tailwind CSS, Styled-Component, and MUI. I have experience with version control systems like Git and knowledge of RESTful APIs and asynchronous programming. 
 
-I am passionate about learning new topics and technologies. I love to solve real-world problems. I always try to do quality work and follow clean code architecture. I'm constantly working on improving my communication skills and problem-solving skills.
-
-Feel free to connect with me to discuss innovative web solutions or potential collaboration opportunities.
-
-📧 Contact with Me - mohosin.hasan.akash@gmail.com
-
-I’m a Frontend Web Developer passionate about making high-performing, error-free websites with 100% client satisfaction. I am passionate about learning new topics and technologies. I love to solve real-world problems. I always try to do quality work and follow clean code architecture. I'm constantly working on improving my communication skills and problem-solving skills. I work with ReactJS, NextJS, ExpressJS, Headless CMS (Strapi), and JavaScript. Feel free to reach out if you'd like to collaborate on an exciting project or just want to chat about web development!
+I am passionate about learning new topics and technologies. I love to solve real-world problems. I always try to do quality work and follow clean code architecture. I'm constantly working on improving my communication skills and problem-solving skills. Feel free to reach out if you'd like to collaborate on an exciting project or just want to chat about web development!
 
 
 ## 📚 Skills & Experiance: 
