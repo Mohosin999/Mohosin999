@@ -12,7 +12,7 @@
 
 
 ## 🚀 About Me
-I’m a Frontend Web Developer passionate about making high-performing, error-free websites with 100% client satisfaction. I am passionate about learning new topics and technologies. I love to solve real-world problems. I always try to do quality work and follow clean code architecture. I'm constantly working on improving my communication skills and problem-solving skills. I work with ReactJS, NextJS, ExpressJS, Headless CMS (Strapi), and JavaScript.
+I’m a Frontend Web Developer passionate about making high-performing, error-free websites with 100% client satisfaction. I am passionate about learning new topics and technologies. I love to solve real-world problems. I always try to do quality work and follow clean code architecture. I'm constantly working on improving my communication skills and problem-solving skills. I work with ReactJS, NextJS, ExpressJS, Headless CMS (Strapi), and JavaScript. Feel free to reach out if you'd like to collaborate on an exciting project or just want to chat about web development!
 
 
 ## 📚 Skills & Experiance: 
