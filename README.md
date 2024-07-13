@@ -23,11 +23,11 @@ I am passionate about learning new topics and technologies. I love to solve real
 <div align="left">
   <img src="https://img.shields.io/badge/-JavaScript-gold?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-React.js-darkcyan?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Next.js-darkcyan?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Redux-darkviolet?style=for-the-badge&logo=redux&logoColor=white&labelColor=black">
+<!--   <img src="https://img.shields.io/badge/-Next.js-darkcyan?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black"> -->
+<!--   <img src="https://img.shields.io/badge/-Redux-darkviolet?style=for-the-badge&logo=redux&logoColor=white&labelColor=black"> -->
   <img src="https://img.shields.io/badge/-Express.js-darkgreen?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Strapi-darkgreen?style=for-the-badge&logo=strapi&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Jest-sienna?style=for-the-badge&logo=jest&logoColor=white&labelColor=black">
+<!--   <img src="https://img.shields.io/badge/-Strapi-darkgreen?style=for-the-badge&logo=strapi&logoColor=white&labelColor=black"> -->
+<!--   <img src="https://img.shields.io/badge/-Jest-sienna?style=for-the-badge&logo=jest&logoColor=white&labelColor=black"> -->
   <img src="https://img.shields.io/badge/-Git-sienna?style=for-the-badge&logo=git&logoColor=white&labelColor=black">
 </div>
 
