@@ -1,5 +1,10 @@
 ## Hi 👋, This is Mohosin Hasan Akash
-<img align="left" alt="coding" width="100%" height="300" src="https://pbs.twimg.com/profile_banners/1729063593545715712/1720832393/600x200" >
+<!--
+<img align="left" alt="coding" width="100%" height="300" src="https://pbs.twimg.com/profile_banners/1729063593545715712/1720832393/600x200" > -->
+<div style="text-align: center;">
+  <img alt="coding" style="max-width: 100%; height: auto;" src="https://pbs.twimg.com/profile_banners/1729063593545715712/1720832393/600x200" />
+</div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
