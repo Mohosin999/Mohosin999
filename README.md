@@ -1,8 +1,6 @@
 ## Hi 👋, This is Mohosin Hasan Akash
-<!--
-<img align="left" alt="coding" width="100%" height="300" src="https://pbs.twimg.com/profile_banners/1729063593545715712/1720832393/600x200" > -->
 <div style="text-align: center;">
-  <img alt="coding" style="width: auto; height: auto;" src="https://pbs.twimg.com/profile_banners/1729063593545715712/1720832393/600x200" />
+  <img alt="coding" style="width:100%; height: auto;" src="https://pbs.twimg.com/profile_banners/1729063593545715712/1720832393/600x200" />
 </div>
 
 
