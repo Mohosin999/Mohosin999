@@ -32,7 +32,7 @@ I am passionate about learning new topics and technologies. I love to solve real
 <!--   <img src="https://img.shields.io/badge/-Strapi-darkgreen?style=for-the-badge&logo=strapi&logoColor=white&labelColor=black"> -->
 <!--   <img src="https://img.shields.io/badge/-Jest-sienna?style=for-the-badge&logo=jest&logoColor=white&labelColor=black"> -->
   <img src="https://img.shields.io/badge/-Git-sienna?style=for-the-badge&logo=git&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-EasyPeasy-sienna?style=for-the-badge&logo=easypeasy&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-EasyPeasy-sienna?style=for-the-badge&logo=easy-peasy&logoColor=white&labelColor=black">
 </div>
 
 
