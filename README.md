@@ -9,7 +9,7 @@
 
 - 💻 I’m currently working on ****
 
-- 📖 I’m currently learning **TypeScript**
+- 📖 I’m currently learning **TypeScript's Basic**
 
 - 🌐 How to reach me quickly **mohosin.hasan.akash@gmail.com**
 
