@@ -9,7 +9,7 @@
 
 - 💻 I’m currently working on ****
 
-- 📖 I’m currently learning **TypeScript and Linked List Data Structure**
+- 📖 I’m currently learning **TypeScript**
 
 - 🌐 How to reach me quickly **mohosin.hasan.akash@gmail.com**
 
