@@ -12,6 +12,8 @@
 - 📖 I’m currently learning **Next.js**
   
 - 🎀 I’m currently taking interview preparation on ****
+  
+- 🧠 I’m currently solving problems on ****
 
 - 🌐 How to reach me quickly **mohosin.hasan.akash@gmail.com**
 
