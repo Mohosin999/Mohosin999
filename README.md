@@ -10,10 +10,10 @@
 - 💻 I’m currently working on ****
 
 - 📖 I’m currently learning **Next.js**
-  
-- 🎀 I’m currently taking interview preparation on ****
-  
+
 - 🧠 I’m currently solving problems on ****
+    
+- 🎀 I’m currently taking interview preparation on ****
 
 - 🌐 How to reach me quickly **mohosin.hasan.akash@gmail.com**
 
