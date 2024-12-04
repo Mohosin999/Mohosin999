@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
 
-- 💻 I’m currently working on **Next.js 15 App**
+- 💻 I’m currently working on ****
 
-- 📖 I’m currently learning ****
+- 📖 I’m currently learning **Basic TypeScript**
 
 - 🧠 I’m currently solving problems on ****
     
