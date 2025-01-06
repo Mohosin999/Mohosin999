@@ -9,9 +9,9 @@
 
 - 💻 I’m currently working on ****
 
-- 📖 I’m currently learning **Basic TypeScript**
+- 📖 I’m currently learning **NextJS 15**
 
-- 🧠 I’m currently solving problems on ****
+- 🧠 I’m currently solving problems on **String**
     
 - 🎀 I’m currently taking interview preparation on ****
 
