@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
 
-- 💻 I’m currently working on ****
+- 💻 I’m currently working on **Full Stack Social Media App Using Next.js & TypeScript**
 
-- 📖 I’m currently learning **NextJS 15**
+- 📖 I’m currently learning **NextJS 15 & TypeScrit**
 
-- 🧠 I’m currently solving problems on **String**
+- 🧠 I’m currently solving problems on ****
     
 - 🎀 I’m currently taking interview preparation on ****
 
