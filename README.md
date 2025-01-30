@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
 
-- 💻 I’m currently working on **MERN Ecommerce App**
+- 💻 I’m currently working on ****
 
-- 📖 I’m currently learning **NextJS 15**
+- 📖 I’m currently learning **Advanced Backend Development - REST API Creation**
 
 - 🧠 I’m currently solving problems on ****
     
