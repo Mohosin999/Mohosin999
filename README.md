@@ -9,7 +9,7 @@
 
 - 💻 I’m currently working on ****
 
-- 📖 I’m currently learning **Advanced Backend Development - REST API Creation**
+- 📖 I’m currently learning **Next.js**
 
 - 🧠 I’m currently solving problems on ****
     
