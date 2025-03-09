@@ -9,7 +9,7 @@
 
 - 💻 I’m currently working on **Backend - Blog Application Using MERN**
 
-- 📖 I’m currently learning **Next.js**
+- 📖 I’m currently learning **YAML**
 
 - 🧠 I’m currently solving problems on ****
     
