@@ -11,7 +11,7 @@
 
 - 📖 I’m currently learning **YAML**
 
-- 🧠 I’m currently solving problems on ****
+- 🧠 I’m currently solving problems on **JS Basic**
     
 - 🎀 I’m currently taking interview preparation on ****
 
