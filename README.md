@@ -11,7 +11,7 @@
 
 - 📖 I’m currently learning **DSA in JavaScript**
 
-- 🧠 I’m currently solving problems on **JS Basic**
+- 🧠 I’m currently solving problems on **JS Array**
     
 - 🎀 I’m currently taking interview preparation on ****
 
