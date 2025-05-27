@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
 
-- 💻 I’m currently working on **Blog App Backend**
+- 💻 I’m currently working on **Null**
 
-- 📖 I’m currently learning **DSA in JavaScript**
+- 📖 I’m currently learning **Null**
 
-- 🧠 I’m currently solving problems on **JS Array**
+- 🧠 I’m currently solving problems on **Null**
     
-- 🎀 I’m currently taking interview preparation on ****
+- 🎀 I’m currently taking interview preparation on **Null**
 
 - 🌐 How to reach me quickly **mohosin.hasan.akash@gmail.com**
 
