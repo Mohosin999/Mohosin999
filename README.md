@@ -12,8 +12,6 @@
 - 📖 I’m currently learning **Null**
 
 - 🧠 I’m currently solving problems on **Null**
-    
-- 🎀 I’m currently taking interview preparation on **Null**
 
 - 🌐 How to reach me quickly **mohosin.hasan.akash@gmail.com**
 
