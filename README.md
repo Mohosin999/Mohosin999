@@ -9,7 +9,7 @@
 
 - 💻 I’m currently working on **MERN-Blog-App-Reactjs**
 
-- 📖 I’m currently learning ****
+- 📖 I’m currently learning **DSA in JavaScript (Array)**
 
 - 🧠 I’m currently solving problems on **Null**
 
