@@ -18,11 +18,13 @@
 
 
 ## 🚀 About Me
-As a passionate front-end web developer, I specialize in creating responsive and dynamic web applications. My expertise lies in utilizing modern web technologies to build user-friendly interfaces that provide exceptional user experiences.
+With over 3+ years of experience in web development, I specialize in building responsive, SEO-optimized, high-performance web applications.
 
-I mainly work with ReactJS, NextJS, ExpressJS, and JavaScript. I use Redux-toolkit or Easy Peasy to manage the state. For styling I use CSS, SASS, Tailwind CSS, Styled-Component, and MUI. I have experience with version control systems like Git and knowledge of RESTful APIs and asynchronous programming. 
+Currently, I'm working with React.js, Next.js, Express.js, and TypeScript. I am experienced with Git for collaborative development and have built both frontend applications and comprehensive MERN stack solutions.
 
-I am passionate about learning new topics and technologies. I love to solve real-world problems. I always try to do quality work and follow clean code architecture. I'm constantly working on improving my communication skills and problem-solving skills. Feel free to reach out if you'd like to collaborate on an exciting project or just want to chat about web development!
+I love technology—not just for what it is, but for what it does. I'm constantly exploring ways to work smarter, leveraging AI tools to boost my productivity and creativity while maintaining high-quality code.
+
+Open to collaboration opportunities.
 
 
 ## 📚 Skills & Experiance: 
