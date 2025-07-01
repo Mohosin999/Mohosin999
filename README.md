@@ -53,6 +53,31 @@ I’m always exploring smarter, faster ways to build, leveraging AI tools to boo
 <!--   <a href="https://www.facebook.com/mohosinh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohosinh99" height="30" width="40" /></a> -->
 </p>
 
+<p align="left">
+  <a href="https://x.com/mohosinh99" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="X Profile" height="30" width="30" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohosinh99/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Profile" height="30" width="30" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.facebook.com/mohosinh99" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="javascript:void(0);" onclick="copyEmail()" title="Click to copy email">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Copy Gmail" height="30" width="30" />
+  </a>
+</p>
+
+<script>
+  function copyEmail() {
+    const email = "mohosin.hasan.akash@gmail.com";
+    navigator.clipboard.writeText(email).then(() => {
+      alert(`${email} copied!`);
+    });
+  }
+</script>
+
+
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohosin999&show_icons=true&locale=en&layout=compact" alt="mohosin999" /></p>
   <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohosin999&show_icons=true&locale=en" alt="mohosin999" /></p> -->
