@@ -45,7 +45,7 @@ I’m always exploring smarter, faster ways to build, leveraging AI tools to boo
 
 
 ## ☕ Connect with me!
-<p align="left" style="display: flex; gap: '100px'; align-items: center;" >
+<p align="left" gap="10rem" >
   <a
     href="https://x.com/mohosinh99"
     target="_blank"
