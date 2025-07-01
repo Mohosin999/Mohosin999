@@ -29,7 +29,7 @@ I work extensively with React.js, Next.js, TypeScript, Express.js, Strapi, Conte
 I’m always exploring smarter, faster ways to build, leveraging AI tools to boost productivity, inspire creativity, and maintain high code quality.
 
 
-## 📚 Skills & Experiance: 
+## 📚 Tools & Technologies: 
 <div align="left">
   <img src="https://img.shields.io/badge/-JavaScript-gold?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-React.js-darkcyan?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
