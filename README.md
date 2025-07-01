@@ -46,7 +46,7 @@ I’m always exploring smarter, faster ways to build, leveraging AI tools to boo
 
 ## ☕ Connect with me!
 <p align="left">
-  <a href="https://twitter.com/mohosinh99" target="_blank">
+  <a href="https://x.com/mohosinh99" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="mohosinh99 on X" height="30" width="30" />
 </a>
   <a href="https://www.linkedin.com/in/mohosinh99/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="mohosinh99" height="30" width="30" /></a>
