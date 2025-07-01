@@ -1,4 +1,4 @@
-## Hi 👋, This is Mohosin Hasan Akash
+r## Hi 👋, This is Mohosin Hasan Akash
 <div style="text-align: center;">
 <!--   <img alt="coding" style="width:100%; height: auto;" src="https://pbs.twimg.com/profile_banners/1729063593545715712/1751183519/600x200" /> -->
   <img alt="coding" style="width:100%; height: auto;" src="https://media.licdn.com/dms/image/v2/D4E16AQEK-xQRNOE0WA/profile-displaybackgroundimage-shrink_350_1400/B4EZfA1I2AGcAs-/0/1751286845428?e=1756944000&v=beta&t=GUkxFIb_S7Oel50fxKrAlvO8EUNORCNOOIZq3s4XfaQ" />
@@ -47,28 +47,11 @@ I’m always exploring smarter, faster ways to build, leveraging AI tools to boo
 ## ☕ Connect with me!
 <p align="left">
   <a href="https://x.com/mohosinh99" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="mohosinh99 on X" height="30" width="30" style="margin-right: 10px;" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="mohosinh99 on X" height="30" width="30" style="margin-right: 24px;" />
 </a>
-  <a href="https://www.linkedin.com/in/mohosinh99/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="mohosinh99" height="30" width="30" /></a>
-<!--   <a href="https://www.facebook.com/mohosinh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohosinh99" height="30" width="40" /></a> -->
+  <a href="https://www.linkedin.com/in/mohosinh99/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="mohosinh99" height="30" width="30" style="margin-right: 24px;" /></a>
+  <a href="https://www.facebook.com/mohosinh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohosinh99" height="30" width="40" /></a>
 </p>
-
-
-<p align="left">
-  <a href="https://x.com/mohosinh99" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="X" height="30" width="30" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohosinh99/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.facebook.com/mohosinh99" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="mailto:mohosin.hasan.akash@gmail.com" title="Click to send email">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" />
-  </a>
-</p>
-
 
 
 
