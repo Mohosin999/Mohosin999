@@ -45,13 +45,28 @@ I’m always exploring smarter, faster ways to build, leveraging AI tools to boo
 
 
 ## ☕ Connect with me!
+<style>
+  .social-icon {
+    margin-right: 40px;
+    transition: transform 0.3s ease;
+  }
+  .social-icon:hover {
+    transform: scale(1.2);
+  }
+</style>
+
 <p align="left">
   <a href="https://x.com/mohosinh99" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="mohosinh99 on X" height="30" width="30" style="margin-right: 24px;" />
-</a>
-  <a href="https://www.linkedin.com/in/mohosinh99/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="mohosinh99" height="30" width="30" style="margin-right: 24px;" /></a>
-  <a href="https://www.facebook.com/mohosinh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohosinh99" height="30" width="40" /></a>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="X" height="30" width="30" class="social-icon" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohosinh99/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" class="social-icon" />
+  </a>
+  <a href="https://www.facebook.com/mohosinh99" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" class="social-icon" style="margin-right: 0;" />
+  </a>
 </p>
+
 
 
 
