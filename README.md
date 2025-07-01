@@ -31,16 +31,37 @@ I’m always exploring smarter, faster ways to build, leveraging AI tools to boo
 
 ## 📚 Technical Skill Set: 
 <div align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-gold?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-React.js-darkcyan?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Next.js-darkcyan?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Redux Toolkit-darkviolet?style=for-the-badge&logo=redux&logoColor=white&labelColor=black">
-<!--   <img src="https://img.shields.io/badge/-Redux.js-darkviolet?style=for-the-badge&logo=redux&logoColor=white&labelColor=black"> -->
-  <img src="https://img.shields.io/badge/-Express.js-darkgreen?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black">
-<img src="https://img.shields.io/badge/-Strapi-indigo?style=for-the-badge&logo=strapi&logoColor=white&labelColor=black">
-<!--   <img src="https://img.shields.io/badge/-Jest-sienna?style=for-the-badge&logo=jest&logoColor=white&labelColor=black"> -->
-  <img src="https://img.shields.io/badge/-Git-sienna?style=for-the-badge&logo=git&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=black">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white&labelColor=black">
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=black">
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white&labelColor=black">
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black&labelColor=black">
+  <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=black">
 </div>
 
 
