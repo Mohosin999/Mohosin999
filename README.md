@@ -20,7 +20,7 @@
 ## 🚀 About Me
 With over 3 years of experience in web development, I focus on creating responsive, SEO-friendly, and high-performance web applications that combine clean design with robust architecture.
 
-*Experience:*
+*`Experience:`*
 In a recent freelance project, I developed a custom web app using Next.js, TypeScript, and Tailwind CSS. I integrated Strapi for backend content management and worked closely with the client to ensure the technical solution aligned with their business goals.
 
 Skills:
