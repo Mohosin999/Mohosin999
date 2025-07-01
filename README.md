@@ -18,13 +18,15 @@
 
 
 ## 🚀 About Me
-With over 3 years of experience in web development, I specialize in building responsive, SEO-friendly, and high-performance web applications.
+With over 3 years of experience in web development, I focus on creating responsive, SEO-friendly, and high-performance web applications that combine clean design with robust architecture.
 
-I work extensively with React.js, Next.js, TypeScript, Express.js, Strapi, and Context API, Redux Toolkit for state management, along with Tailwind CSS, Sass, and modern libraries like shadcn/ui to build clean, accessible interfaces. I have hands-on experience with Git for collaborative development and have built both frontend interfaces and full-stack MERN applications.
+##### Experience:
+In a recent freelance project, I developed a custom web app using Next.js, TypeScript, and Tailwind CSS. I integrated Strapi for backend content management and worked closely with the client to ensure the technical solution aligned with their business goals.
 
-I’m always exploring innovative ways to optimize my workflow—using AI tools to accelerate development, inspire creative solutions, and ensure code excellence.
+Skills:
+I work extensively with React.js, Next.js, TypeScript, Express.js, Strapi, Context API, and Redux Toolkit. For UI and styling, I use Tailwind CSS and shadcn/ui to develop clean, accessible interfaces. I also have hands-on experience with Git, Jest, and have built both frontend-only and full-stack MERN applications.
 
-I’m open to new opportunities, collaborations, or just connecting with like-minded developers.
+I’m always exploring smarter, faster ways to build, leveraging AI tools to boost productivity, inspire creativity, and maintain high code quality.
 
 
 ## 📚 Skills & Experiance: 
