@@ -32,7 +32,7 @@ I’m always exploring smarter, faster ways to build, leveraging AI tools to boo
 ## 📚 Technical Skill Set: 
 <div align="left">
   
-### **🌐 Frontend & UI**
+#### **🌐 Frontend & UI**
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -51,7 +51,7 @@ I’m always exploring smarter, faster ways to build, leveraging AI tools to boo
 <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white">
 <img src="https://img.shields.io/badge/Zod-1E4C6F?style=for-the-badge&logo=zod&logoColor=white">
 
-### **⚙️ Backend & APIs**
+#### **⚙️ Backend & APIs**
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js_API_Routes-000000?style=for-the-badge&logo=next.js&logoColor=white">
@@ -102,10 +102,10 @@ I’m always exploring smarter, faster ways to build, leveraging AI tools to boo
   <a href="https://www.linkedin.com/in/mohosinh99/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" />
   </a>
-<!--   &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/mohosinh99" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
-  </a> -->
+  </a>
 </p>
 
 
