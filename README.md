@@ -45,7 +45,7 @@ I’m always exploring smarter, faster ways to build, leveraging AI tools to boo
 
 
 ## ☕ Connect with me!
-<p align="left" style="display: flex; gap: 100px; align-items: center;" >
+<p align="left" style="display: flex; gap: '100px'; align-items: center;" >
   <a
     href="https://x.com/mohosinh99"
     target="_blank"
@@ -73,7 +73,7 @@ I’m always exploring smarter, faster ways to build, leveraging AI tools to boo
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="mohosinh99"
       height"30"
-      width="40"
+      width="30"
     />
   </a>
 </p>;
