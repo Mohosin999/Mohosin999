@@ -10,9 +10,9 @@
 
 - 💻 I’m currently working on **FullStack AI Resume Builder App Next.js**
 
-- 📖 I’m currently learning **DSA in JavaScript (Array)**
+- 📖 I’m currently learning ****
 
-- 🧠 I’m currently solving problems on **Null**
+- 🧠 I’m currently solving problems on ****
 
 - 🌐 How to reach me quickly **mohosin.hasan.akash@gmail.com**
 
