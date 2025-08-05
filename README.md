@@ -12,7 +12,7 @@
 
 - 📖 I’m currently learning **Advanced Backend Development**
 
-- 🧠 I’m currently solving problems on ****
+- 🧠 I’m currently solving problems on **Array**
 
 - 🌐 How to reach me quickly **mohosin.hasan.akash@gmail.com**
 
