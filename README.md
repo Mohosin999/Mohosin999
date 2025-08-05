@@ -10,7 +10,7 @@
 
 - 💻 I’m currently working on **FullStack AI Resume Builder App Next.js**
 
-- 📖 I’m currently learning ****
+- 📖 I’m currently learning **Advanced Backend Development**
 
 - 🧠 I’m currently solving problems on ****
 
