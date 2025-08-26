@@ -29,6 +29,7 @@ I work extensively with JavaScript, React.js, Next.js, TypeScript, Express.js, S
 I’m always exploring smarter, faster ways to build, leveraging AI tools to boost productivity, inspire creativity, and maintain high code quality.
 
 💼 Portfolio: https://personal-portfolio-website-brown-nine.vercel.app/
+
 📧 Reach me at "mohosin.hasan.akash@gmail.com" or "mohosinlinkedin@gmail.com"
 
 
