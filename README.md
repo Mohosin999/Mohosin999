@@ -30,8 +30,6 @@ I’m always exploring smarter, faster ways to build, leveraging AI tools to boo
 
 💼 Portfolio: https://personal-portfolio-website-brown-nine.vercel.app/
 
-📧 Reach me at "mohosin.hasan.akash@gmail.com" or "mohosinlinkedin@gmail.com"
-
 
 ## 📚 Technical Skill Set: 
 <div align="left">
