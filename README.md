@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
 
-- 💻 I’m currently working on **FullStack AI Resume Builder App Next.js**
+- 💻 I’m currently working on ****
 
 - 📖 I’m currently learning **Advanced Backend Development**
 
@@ -27,6 +27,9 @@ In a recent freelance project, I developed a custom web app using Next.js, TypeS
 I work extensively with JavaScript, React.js, Next.js, TypeScript, Express.js, Strapi, Context API, and Redux Toolkit. For UI and styling, skilled in Tailwind CSS and shadcn/ui to deliver clean and accessible interfaces. Hands-on experience with Git, Jest, and building both frontend-only and full-stack MERN applications.
 
 I’m always exploring smarter, faster ways to build, leveraging AI tools to boost productivity, inspire creativity, and maintain high code quality.
+
+💼 Portfolio: https://personal-portfolio-website-brown-nine.vercel.app/
+📧 Reach me at "mohosin.hasan.akash@gmail.com" or "mohosinlinkedin@gmail.com"
 
 
 ## 📚 Technical Skill Set: 
