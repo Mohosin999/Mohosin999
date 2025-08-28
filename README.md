@@ -10,7 +10,7 @@
 
 - 💻 I’m currently working on ****
 
-- 📖 I’m currently learning **Advanced Backend Development**
+- 📖 I’m currently learning ****
 
 - 🧠 I’m currently solving problems on **Array**
 
