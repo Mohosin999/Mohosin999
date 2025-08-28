@@ -12,7 +12,7 @@
 
 - 📖 I’m currently learning ****
 
-- 🧠 I’m currently solving problems on **Array**
+- 🧠 I’m currently solving problems on ****
 
 - 🌐 How to reach me quickly **mohosin.hasan.akash@gmail.com**
 
