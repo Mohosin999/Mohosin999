@@ -18,15 +18,13 @@
 
 
 ## 🚀 About Me
-With over 3 years of experience in web development, I focus on creating responsive, SEO-friendly, and high-performance web applications that combine clean design with robust architecture.
+I create responsive, SEO-friendly, and high-performance web applications that combine modern design with scalable architecture. With over 4 years in web development, I focus on building products that look great, work smoothly, and help businesses grow.
 
-`Experience:`
-In a recent freelance project, I developed a custom web app using Next.js, TypeScript, Tailwind CSS, and integrated Strapi for backend content management and worked closely with the client to ensure the technical solution aligned with their business goals.
+Recently, I’ve been building websites with AI-powered features integrated directly into the workflow, and I aim to incorporate AI in some way across all future projects. This approach ensures that the solutions I deliver stay modern, efficient, and ahead of the curve.
 
-`Skills:`
-I work extensively with JavaScript, React.js, Next.js, TypeScript, Express.js, Strapi, Context API, and Redux Toolkit. For UI and styling, skilled in Tailwind CSS and shadcn/ui to deliver clean and accessible interfaces. Hands-on experience with Git, Jest, and building both frontend-only and full-stack MERN applications.
+I’ve contributed to a wide range of projects—ranging from custom web apps to full-stack solutions—using technologies such as JavaScript, React.js, Next.js, TypeScript, Express.js, and Strapi. On the frontend, I emphasize clean and accessible interfaces with Tailwind CSS and shadcn/ui, while on the backend, I ensure solid integrations and flexible content management systems.
 
-I’m always exploring smarter, faster ways to build, leveraging AI tools to boost productivity, inspire creativity, and maintain high code quality.
+Clients I collaborate with value the transparency and dedication I bring to each project. From the first conversation to deployment, I ensure their goals remain the priority while translating ideas into polished, professional digital solutions.
 
 💼 Portfolio: https://personal-portfolio-website-brown-nine.vercel.app/
 
