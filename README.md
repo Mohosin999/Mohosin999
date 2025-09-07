@@ -18,13 +18,15 @@
 
 
 ## 🚀 About Me
-I create responsive, SEO-friendly, and high-performance web applications that combine modern design with scalable architecture. With over 4 years in web development, I focus on building products that look great, work smoothly, and help businesses grow.
+With over 3 years of experience in web development, I design and build responsive, SEO-friendly, and high-performance web applications. Now my focus is on creating modern, AI-featured web solutions.
 
 Recently, I’ve been building websites with AI-powered features integrated directly into the workflow, and I aim to incorporate AI in some way across all future projects. This approach ensures that the solutions I deliver stay modern, efficient, and ahead of the curve.
 
-I’ve contributed to a wide range of projects—ranging from custom web apps to full-stack solutions—using technologies such as JavaScript, React.js, Next.js, TypeScript, Express.js, and Strapi. On the frontend, I emphasize clean and accessible interfaces with Tailwind CSS and shadcn/ui, while on the backend, I ensure solid integrations and flexible content management systems.
+I have contributed to a diverse range of projects, from custom web applications to full-stack solutions, leveraging technologies such as JavaScript, TypeScript, React, Next.js, Redux-Toolkit, Easy-Peasy, Express.js, Headless CMS (Strapi), Tailwind CSS, Styled-Components, and more.
 
-Clients I collaborate with value the transparency and dedication I bring to each project. From the first conversation to deployment, I ensure their goals remain the priority while translating ideas into polished, professional digital solutions.
+I am currently learning backend development and working with the MERN stack. Soon, I will start building all my upcoming projects using MERN technologies. This will allow me to create full-stack, scalable, and dynamic web applications end-to-end.
+
+I work closely with my client, maintaining transparent and consistent communication to understand their needs and adapt to evolving requirements. From initial discussions to final deployment, I translate ideas into polished, professional digital solutions, refining designs and features along the way to ensure the final product aligns with their vision and delivers complete satisfaction.
 
 💼 Portfolio: https://personal-portfolio-website-brown-nine.vercel.app/
 
