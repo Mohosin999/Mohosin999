@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
 
-- 💻 I’m currently working on **AI-Chatbot SmartGPT App (MERN Stack)**
+- 💻 I’m currently working on ****
 
 - 📖 I’m currently learning ****
 
@@ -18,15 +18,15 @@
 
 
 ## 🚀 About Me
-With over 3 years of experience in web development, I design and build responsive, SEO-friendly, and high-performance web applications. Now my focus is on creating modern, AI-featured web solutions.
+With over 3 years of experience in front-end development, I’m an expert at creating high-performance, scalable web applications that maximize user experience and business success. My skills are JavaScript, TypeScript, React, and Next.js, and I have a deep understanding of building RESTful APIs using Node.js and Express.
 
-Recently, I’ve been building websites with AI-powered features integrated directly into the workflow, and I aim to incorporate AI in some way across all future projects. This approach ensures that the solutions I deliver stay modern, efficient, and ahead of the curve.
+Recently, I’ve been building websites with AI-powered features integrated directly into the workflow. This approach ensures that the solutions I deliver stay modern, efficient, and ahead of the curve.
 
-I have contributed to a diverse range of projects, from custom web applications to full-stack solutions, leveraging technologies such as JavaScript, TypeScript, React, Next.js, Redux-Toolkit, Easy-Peasy, Express.js, Headless CMS (Strapi), Tailwind CSS, Styled-Components, and more.
+I worked with a client as a Frontend Developer, building a high-performance, SEO-optimized web app using Next.js that helped boost their company's sales. I consistently updated various sections based on client requests and learned a lot while delivering impactful results.
 
-I am currently learning backend development and working with the MERN stack. Soon, I will start building all my upcoming projects using MERN technologies. This will allow me to create full-stack, scalable, and dynamic web applications end-to-end.
+I truly enjoy learning new things. Currently, I’m exploring backend development and working with the MERN stack to enhance my full-stack skills. When I’m not coding, I love spending time in peaceful green environments. I also exercise regularly to stay physically and mentally healthy.
 
-I work closely with my client, maintaining transparent and consistent communication to understand their needs and adapt to evolving requirements. From initial discussions to final deployment, I translate ideas into polished, professional digital solutions, refining designs and features along the way to ensure the final product aligns with their vision and delivers complete satisfaction.
+Aiming for remote opportunities worldwide, I’m excited to bring my expertise to forward-thinking teams and contribute to projects driven by creativity and excellence.
 
 💼 Portfolio: https://personal-portfolio-website-brown-nine.vercel.app/
 
