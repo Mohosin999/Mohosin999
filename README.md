@@ -40,8 +40,9 @@ Aiming for remote opportunities worldwide, I’m excited to bring my expertise t
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/Styled Components-000000?style=for-the-badge&logo=styled-components&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/Styled Components-06B6D4?style=for-the-badge&logo=styled-components&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/shadcn/ui-1E4C6F?style=for-the-badge&logo=shadcn&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"> -->
@@ -52,7 +53,6 @@ Aiming for remote opportunities worldwide, I’m excited to bring my expertise t
 <!-- <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Zod-1E4C6F?style=for-the-badge&logo=zod&logoColor=white"> -->
 
 #### **⚙️ Backend & APIs**
 <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> -->
