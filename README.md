@@ -22,7 +22,7 @@ With over 3 years of experience in front-end development, I’m an expert at cre
 
 Recently, I’ve been building websites with AI-powered features integrated directly into the workflow. This approach ensures that the solutions I deliver stay modern, efficient, and ahead of the curve.
 
-I worked with a client as a Frontend Developer, building a high-performance, SEO-optimized web app using Next.js that helped boost their company's sales. I consistently updated various sections based on client requests and learned a lot while delivering impactful results.
+I worked with a local client as a frontend developer, using Next.js, TypeScript, Strapi, and Tailwind CSS to create a high-performance, SEO-optimized web app that showcased their business. I consistently updated various sections based on client requests and learned a lot while delivering impactful results.
 
 I truly enjoy learning new things. Currently, I’m exploring backend development and working with the MERN stack to enhance my full-stack skills. When I’m not coding, I love spending time in peaceful green environments. I also exercise regularly to stay physically and mentally healthy.
 
