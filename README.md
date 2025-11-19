@@ -1,7 +1,6 @@
 ### Hi 👋, This is Mohosin Hasan Akash
 <div style="text-align: center;">
-<!--   <img alt="coding" style="width:100%; height: auto;" src="https://pbs.twimg.com/profile_banners/1729063593545715712/1751183519/600x200" /> -->
-  <img alt="coding" style="width:100%; height: auto;" src="https://media.licdn.com/dms/image/v2/D4E16AQFw5sxeOB60ZA/profile-displaybackgroundimage-shrink_350_1400/B4EZqaqVxOGcAY-/0/1763531382646?e=1765411200&v=beta&t=vrf73ecyox0m01-exWgmoHQgZJu3xxNT3LBfytHyXiU" />
+  <img alt="coding" style="width:100%; height: auto;" src="https://media.licdn.com/dms/image/v2/D4E16AQEArkOrIqeV1Q/profile-displaybackgroundimage-shrink_350_1400/B4EZqccoYxIoAc-/0/1763561343368?e=1765411200&v=beta&t=7a3X_c-F0wkyXLgbqtsuKE7ryQWQEuuATt_CdgBDuQc" />
 </div>
 
 
